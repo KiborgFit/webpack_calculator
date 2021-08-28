@@ -1,0 +1,15 @@
+button {
+    padding: 20px 20px 20px 20px;
+    margin: 5px;
+    width: 60px;
+}
+button:first-child{
+    margin: 5px 5px 5px 15px;
+}
+button:last-child{
+    margin: 5px 15px 5px 5px;
+}
+.button--fake{
+     visibility: hidden;
+
+ }
